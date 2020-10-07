@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 20
-  productGUID: 4b507fd49a387fc4cbf1c236f83da657
+  productGUID: 00000000000000000000000000000000
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -307,9 +307,9 @@ PlayerSettings:
     m_GraphicsJobs: 0
   m_BuildTargetGraphicsJobMode:
   - m_BuildTarget: PS4Player
-    m_GraphicsJobMode: -2137136800
+    m_GraphicsJobMode: 1973279776
   - m_BuildTarget: XboxOnePlayer
-    m_GraphicsJobMode: -2137136800
+    m_GraphicsJobMode: 1973279776
   m_BuildTargetGraphicsAPIs: []
   m_BuildTargetVRSettings: []
   openGLRequireES31: 0
